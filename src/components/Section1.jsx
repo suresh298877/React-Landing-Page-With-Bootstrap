@@ -18,7 +18,7 @@ function Section1() {
                                     <div className="card border-0">
                                         <div className="row">
                                             <div className="col-4 align-self-center">
-                                                <img className="img-fluid rounded-start" src="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" />
+                                                <img className="img-fluid rounded-start" src="images/img.png" />
                                             </div>
                                             <div className="col-8">
                                                 <div className="card-body" style={{ paddingLeft: '0px' }}>
@@ -33,7 +33,7 @@ function Section1() {
                                     <div className="card border-0">
                                         <div className="row">
                                             <div className="col-4 align-self-center">
-                                                <img className="img-fluid rounded-start" src="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" />
+                                                <img className="img-fluid rounded-start" src="images/img.png" />
                                             </div>
                                             <div className="col-8">
                                                 <div className="card-body" style={{ paddingLeft: '0px' }}>
